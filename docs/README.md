@@ -46,7 +46,7 @@ Throughout the course, you'll engage in activities such as:
 
 ## 🎉 Completion
 
-> [!SUCCESS]
+> [!NOTE]
 > Congratulations on completing the course! You've gained valuable insights into the structure and history of GitHub repositories.
 
 ## 🌐 Publish with GitHub Pages
