@@ -74,5 +74,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> [!NOTE]
+> [!TIP]
 > For more interactive courses, visit [GitHub Skills](https://skills.github.com/).

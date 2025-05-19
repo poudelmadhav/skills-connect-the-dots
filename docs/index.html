@@ -17,16 +17,20 @@
         homepage: "README.md",
         loadSidebar: true,
         'flexible-alerts': {
-          note: {
-            label: "Important"
+          important: {
+            label: 'Important',
+            icon: 'icon-note',
+            className: 'note'
           },
-          attention: {
-            label: "Caution"
+          caution: {
+            label: 'Caution',
+            icon: 'icon-attention',
+            className: 'attention'
           }
         }
       };
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-    <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+    <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
   </body>
 </html>
